@@ -1,7 +1,7 @@
 ## Predicting Hourly Bike Rentals
 **[View Here!](https://nbviewer.jupyter.org/github/epatter1/Predicting-Bike-Rentals/blob/master/Predicting%20Bike%20Rentals.ipynb)** :eyes:
 
-> Goal: To utilize a linear regression, decision tree, and random forest models to determine which best predicts bike rentals.
+> Goal: To utilize linear regression, decision tree, and random forest models to determine which best predicts bike rentals.
 
 Many American cities have communal bike sharing stations where you can rent bicycles by the hour or day. Washington, D.C. is one of these cities. The District collects detailed data on the number of bicycles people rent by the hour and day.
 
